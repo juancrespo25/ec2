@@ -1,0 +1,1 @@
+Archivos necesarios para crear la ec2 desde terraform, con la configuracion que esta en github
